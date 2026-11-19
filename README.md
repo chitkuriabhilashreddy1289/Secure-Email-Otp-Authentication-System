@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SecureAuth
 Java 21 / Spring Boot / MySQL / React passwordless email authentication demo.
 
@@ -33,3 +34,7 @@ Register, receive email, verify, inspect account in MySQL. Try wrong code, five 
 
 ## Scope
 Local educational demo, not production-ready. OTP state is in memory and resets on restart. Add distributed rate limits (including IP and email), durable challenges with Redis, HTTPS, token revocation/session management, automated tests, abuse detection and monitoring before deployment. No SMTP delivery or live full-stack execution was verified in the generation environment.
+=======
+# Secure-Email-Otp-Authentication-System
+Secure email OTP authentication system using Spring Boot, Spring Security, JWT, MySQL and JavaMailSender
+>>>>>>> 25f9a557ef891791cedc10702029ef6251089c4c
